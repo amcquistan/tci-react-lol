@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Tutorial 
+
+[Rough draft tutorial](https://github.com/amcquistan/tci-react-lol/blob/master/blog-article/Lots%20of%20Lists%20React%20Frontend%20with%20AWS%20Cognito%20and%20Amplify.md)
+
 ## Available Scripts
 
 In the project directory, you can run:
