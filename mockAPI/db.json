@@ -1,0 +1,84 @@
+{
+  "lists": [
+    {
+      "id": "9410b3ba-6486-47b3-a912-336746333f6c",
+      "username": "adammcquistan",
+      "name": "Learn Programming Languages",
+      "createdAt": 1606514641045,
+      "completed": false,
+      "items": [
+        {
+          "name": "Java",
+          "completed": true
+        },
+        {
+          "name": "Python",
+          "completed": true
+        },
+        {
+          "name": "JavaScript",
+          "completed": true
+        },
+        {
+          "name": "C Sharp",
+          "completed": false
+        },
+        {
+          "name": "Go",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "c9b7a648-333a-46d7-87a2-cc8a9234a304",
+      "username": "adammcquistan",
+      "name": "Groceries",
+      "createdAt": 1606514641045,
+      "completed": false,
+      "items": [
+        {
+          "name": "Milk",
+          "completed": false
+        },
+        {
+          "name": "Eggs",
+          "completed": false
+        },
+        {
+          "name": "Chicken Nuggets",
+          "completed": false
+        },
+        {
+          "name": "Raisin Bran",
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "5bcec7c3-2653-4497-a21c-fe42a828fb3d",
+      "name": "Christmas",
+      "completed": true,
+      "items": [
+        {
+          "name": "batteries",
+          "completed": true
+        },
+        {
+          "name": "socks",
+          "completed": true
+        }
+      ]
+    },
+    {
+      "id": "83438cea-7efd-4863-bba8-9ea6d4972261",
+      "name": "Books",
+      "completed": false,
+      "items": [
+        {
+          "name": "Christmas Carol",
+          "completed": false
+        }
+      ]
+    }
+  ]
+}
